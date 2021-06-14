@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## GRAPHQLINJECTOR FOR REST IN PEACE GUYS
 
-You can use the [editor on GitHub](https://github.com/blessingcharles/graphqlInjector/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## GRAPHQL INJECTOR
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### USAGE 
 
-```markdown
-Syntax highlighted code block
+![help.png](https://raw.githubusercontent.com/blessingcharles/graphqlInjector/main/Screenshots/help.png)
 
-# Header 1
-## Header 2
-### Header 3
+### FINDING GRAPHQL ENDPOINTS
 
-- Bulleted
-- List
+![1.png](https://raw.githubusercontent.com/blessingcharles/graphqlInjector/main/Screenshots/1.png)
 
-1. Numbered
-2. List
+### FINDING SUPPORTED QUERY SCHEMAS
 
-**Bold** and _Italic_ and `Code` text
+![2.png](https://raw.githubusercontent.com/blessingcharles/graphqlInjector/main/Screenshots/2.png)
 
-[Link](url) and ![Image](src)
-```
+### DUMPING INTROSPECTION QUERY
+### INTERACTIVE GRAPHQL CONSOLE 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![3.png](https://raw.githubusercontent.com/blessingcharles/graphqlInjector/main/Screenshots/3.png)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blessingcharles/graphqlInjector/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
